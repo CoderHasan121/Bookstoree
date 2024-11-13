@@ -1,0 +1,99 @@
+[
+    {
+        "id":11,
+        "name":"Chacha champak vol1",
+        "title":"Book 1",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":10,
+        "name":"Marvels Universe",
+        "title":"Book 1",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":9,
+        "name":"Vikarm Betal",
+        "title":"Book 1",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":8,
+        "name":"Grammer Book",
+        "title":"Book 1",
+        "price":"$11",
+        "category":"Education",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":7,
+        "name":"Music Book",
+        "title":"Book 1",
+        "price":"$22",
+        "category":"Music",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":6,
+        "name":"Sports Book",
+        "title":"Book 1",
+        "price":"$4.5",
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":5,
+        "name":"Comedy Book",
+        "title":"Book 1",
+        "price":"$3",
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":1,
+        "name":"Meditaion Book",
+        "title":"Book 1",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":2,
+        "name":"Power of Excercise",
+        "title":"Book 1",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":3,
+        "name":"Chacha Champak vol2",
+        "title":"Book 1",
+        "price":"$6",
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":4,
+        "name":"Digit",
+        "title":"Book 1", 
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    },
+    {
+        "id":12,
+        "name":"DC Universe",
+        "title":"Book 1",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718723931~exp=1718727531~hmac=e8831e29c6236acbce33b63a3b652a66c50f58944f9fdf2e1601b32b78ffa113&w=740"
+    }
+
+]
